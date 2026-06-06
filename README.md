@@ -8,7 +8,7 @@
  
 ## 🔧 Tech
  
-**Languages:** Python | JavaScript | HTML | CSS | Java | C++  
+**Languages:** Python | JavaScript | Java | Python |
 **Frameworks:** React | Tailwind CSS | Node.js | Flask  
 **Focus:** Networking (CCNA) | Cybersecurity | Web Development | Linux
  
@@ -18,7 +18,6 @@
  
 - **React-Portfolio** — Live portfolio (React, Tailwind)
 - **Movie Website** — Full-stack web app (JavaScript, HTML, CSS)
-- **Nike App** — E-commerce clone (React, Tailwind)
 - **Data Breach** — ML project (Python)
 - **System Monitor** — Python utility
 - **Games Download Hub** — JavaScript app
@@ -38,9 +37,6 @@ Upcoming: 3D Portfolio | OSINT Tools | Sports Analytics Dashboard
  
 [GitHub](https://github.com/avinashgundimeda) | [LinkedIn](https://in.linkedin.com/in/avinash-gundimeda) |[YouTube - Within](https://www.youtube.com/@within-livee)
 
-## 🏆 GitHub Achievements
-
-![achievements](https://github-profile-trophy.vercel.app/?username=avinashgundimeda)
 ---
  
 **On it.** 🔒
