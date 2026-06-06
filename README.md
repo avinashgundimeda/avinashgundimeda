@@ -37,7 +37,10 @@ Upcoming: 3D Portfolio | OSINT Tools | Sports Analytics Dashboard
 ## 🔗 Links
  
 [GitHub](https://github.com/avinashgundimeda) | [LinkedIn](https://in.linkedin.com/in/avinash-gundimeda) |[YouTube - Within](https://www.youtube.com/@within-livee)
- 
+
+## 🏆 GitHub Achievements
+
+![achievements](https://github-profile-trophy.vercel.app/?username=avinashgundimeda)
 ---
  
 **On it.** 🔒
