@@ -13,27 +13,7 @@
 **Focus:** Networking (CCNA) | Cybersecurity | Web Development | Linux
  
 ---
- 
-## 🚀 Projects
- 
-- **React-Portfolio** — Live portfolio (React, Tailwind)
-- **Movie Website** — Full-stack web app (JavaScript, HTML, CSS)
-- **Data Breach** — ML project (Python)
-- **System Monitor** — Python utility
-- **Games Download Hub** — JavaScript app
-- **Fraud Detection & Insurance Prediction** — ML models
-Upcoming: 3D Portfolio | OSINT Tools | Sports Analytics Dashboard
- 
----
- 
-## 📚 Currently Learning
- 
-🔄 CCNA-level Networking | BlackArch Linux  
-⏳ Linux hardening & Security+ | Advanced Cybersecurity
- 
----
- 
-## 🔗 Links
+ ## 🔗 Links
  
 [GitHub](https://github.com/avinashgundimeda) | [LinkedIn](https://in.linkedin.com/in/avinash-gundimeda) |[YouTube - Within](https://www.youtube.com/@within-livee)
 
