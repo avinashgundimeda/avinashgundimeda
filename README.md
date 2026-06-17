@@ -8,9 +8,9 @@
  
 ## 🔧 Tech
  
-**Languages:** Python | JavaScript | Java | Python |
+**Languages:** Python | JavaScript | Java |
 **Frameworks:** React | Tailwind CSS | Node.js | Flask  
-**Focus:** Networking (CCNA) | Cybersecurity | Web Development | Linux
+**Focus:** Networking | Cybersecurity | Web Development | Linux | System Administrator
  
 ---
  ## 🔗 Links
