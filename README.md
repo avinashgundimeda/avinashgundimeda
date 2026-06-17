@@ -2,7 +2,7 @@
  
 **Cybersecurity | Networking | Full-Stack Developer**
  
-3rd-year B.Tech @ Mohan Babu University, specializing in Cybersecurity. Currently grinding on CCNA, building secure systems, and shipping projects.
+3rd-year B.Tech @ Mohan Babu University, specializing in Cybersecurity. Currently grinding on CyberSecurity.
  
 ---
  
