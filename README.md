@@ -2,13 +2,13 @@
  
 **Cybersecurity | System Administrator | Full-Stack Developer**
  
-4th-year B.Tech @ Mohan Babu University, specializing in Cybersecurity. Currently grinding on CyberSecurity.
+4th-year B.Tech @ Mohan Babu University, specializing in Cybersecurity.
  
 ---
  
 ## 🔧 Tech
  
-**Languages:** Python | JavaScript | Python |
+**Languages:** Python | JavaScript | Java |
 **Frameworks:** React | Tailwind CSS | Node.js | Flask  
 **Focus:** Networking | Cybersecurity | SIEM | Linux | System Administrator
  
