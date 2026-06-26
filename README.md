@@ -1,16 +1,16 @@
 # Avinash Gundimeda
  
-**Cybersecurity | Networking | Full-Stack Developer**
+**Cybersecurity | System Administrator | Full-Stack Developer**
  
-3rd-year B.Tech @ Mohan Babu University, specializing in Cybersecurity. Currently grinding on CyberSecurity.
+4th-year B.Tech @ Mohan Babu University, specializing in Cybersecurity. Currently grinding on CyberSecurity.
  
 ---
  
 ## 🔧 Tech
  
-**Languages:** Python | JavaScript | Java |
+**Languages:** Python | JavaScript | Python |
 **Frameworks:** React | Tailwind CSS | Node.js | Flask  
-**Focus:** Networking | Cybersecurity | Web Development | Linux | System Administrator
+**Focus:** Networking | Cybersecurity | SIEM | Linux | System Administrator
  
 ---
  ## 🔗 Links
